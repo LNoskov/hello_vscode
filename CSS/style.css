@@ -28,7 +28,7 @@ td {
    width: 614px;
    height: 3px;
    left: 0px;
-   top: 580px;
+   top: 1050px;
    background:#000000 ;
 }
 .facts_about_me_1 {
@@ -211,7 +211,7 @@ td {
 .my_сontact {
    position: absolute;
    left: 235px;
-   top: 570;
+   top: 1000;
    font-family: 'Inter';
    font-style: normal;
    font-weight: 500;
@@ -221,7 +221,7 @@ td {
 .phone_number {
    position: absolute;
    left: 0px;
-   top: 630px;
+   top: 1050px;
    font-family: 'Inter';
    font-style: normal;
    font-weight: 500;
@@ -232,7 +232,7 @@ td {
 .telegram {
    position: absolute;
    left: 220px;
-   top: 630px;
+   top: 1050px;
    font-family: 'Inter';
    font-style: normal;
    font-weight: 500;
@@ -244,11 +244,43 @@ td {
    position: absolute;
    padding-left: 35px;
    left: 440px;
-   top: 630px;
+   top: 1050px;
    font-family: 'Inter';
    font-style: normal;
    font-weight: 500;
    font-size: 14px;
    line-height: 17px;
    color: #000000;
+}
+.video {
+   position: absolute;
+   width: 614px;
+   height: 3px;
+   left: 27px;
+   top: 500px;
+}
+.memasik {
+   position: absolute;
+   left: 260px;
+   top: 450px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   color: #000000;
+}
+.wish {
+   position: absolute;
+   left: 180px;
+   top: 830px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   color: #000000;
+}
+.wish_text {
+   position: absolute;
+   left: 220px;
+   top: 880px;
 }
