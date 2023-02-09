@@ -1,0 +1,254 @@
+body {
+   height: 900px;
+   width: 1000px;
+   left: 600px;
+   top: -200px;
+   border-radius: 0px;
+   background: rgba(118, 53, 126, 0.799);
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+table {
+   border-spacing: 3px 3px;
+   background: #ffffff;
+}
+td {
+   padding: 10px;
+   background: #58b33072;
+}
+.trait_1 {
+   position: absolute;
+   width: 614px;
+   height: 3px;
+   left: 413px;
+   top: 190px;
+   background: #ffffff;
+}
+.trait_2 {
+   position: absolute;
+   width: 614px;
+   height: 3px;
+   left: 0px;
+   top: 580px;
+   background:#000000 ;
+}
+.facts_about_me_1 {
+   position: absolute;
+   width: 614px;
+   height: 175px;
+   left: 413px;
+   top: 233px;
+   border-radius: 3px;
+   background:  #66ffcc;
+}
+.facts_about_me_2 {
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 22px;
+   background: #58b33072;
+}
+.wraper {
+   padding: 0px 0px 10px 10px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 14px;
+   line-height: 17px;
+   color: #000000;
+}
+.name {
+   position: absolute;
+   width: 350px;
+   height: 36px;
+   left: 662px;
+   top: 70px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 320;
+   font-size: 24px;
+   line-height: 30px;
+   color: #000000;
+}
+.position {
+   position: absolute;
+   width: 106px;
+   height: 22px;
+   left: 662px;
+   top: 126px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 400;
+   font-size: 18px;
+   line-height: 22px;
+   color: #000000;
+}
+.avatar {
+   padding: 64px 1009px 2000px 521px;
+   width: 96px;
+   height: 91px;
+   left: 900px;
+   top: 64px;
+   border-top-left-radius: 25px;
+   border-top-right-radius: 25px;
+   border-bottom-left-radius: 25px;
+   border-bottom-right-radius: 25px;
+   border-radius: 20px;
+}
+.my_skills {
+   position: absolute;
+   left: 515px;
+   top: 425px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 22px;
+   color: #000000;
+}
+.certificate {
+   position: absolute;
+   width: 615px;
+   height: 300px;
+   left: 411px;
+   top: 600px;
+   background:  #66ffcc;
+   border-radius: 3px;
+}
+.certif {
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   line-height: 22px;;
+   color: #000000;
+}
+.image_1 {
+   position: absolute;
+   width: 72px;
+   height: 66px;
+   left: 410px;
+   top: 480px;
+}
+.image_2 {
+   position: absolute;
+   width: 62px;
+   height: 62px;
+   left: 500px;
+   top: 480px;
+}
+.image_3 {
+   position: absolute;
+   width: 62;
+   height: "59";
+   left: 600px;
+   top: 480px;
+}
+.image_4 {
+   position: absolute;
+   width: 93px;
+   height: 92px;
+   left: 650px;
+   top: 465px;  
+}
+.image_5 {
+   position: absolute;
+   width: 60px;
+   height: 59px;
+   left: 750px;
+   top: 480px;  
+   } 
+.image_6 {
+   position: absolute;   
+   width: 60px;
+   height: 34px;
+   left: 850px;
+   top: 490px;
+}
+.image_7 {
+   position: relative;
+   top: 20px;
+   left: 17px;
+   margin: 0px;
+   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+   border-radius: 3px;  
+}
+.image_8 {
+   position: relative;
+   top: -171px;
+   left: 310px;
+   margin: 0px;
+   filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+   border-radius: 3px; 
+}
+.table {
+   position: absolute;
+   width: 614px;
+   font-family: 'Inter';
+   height: 450px;
+   left: 413px;
+   top: 930px;
+   background: #66ffcc;
+   border-radius: 3px;
+}
+.works {
+   font-family: 'Inter';
+   font-style: normal;
+   font-size: 18px;
+   font-weight: 500;
+   letter-spacing: 0em;
+}
+.table_work{
+   position: relative;
+   left: 45px;
+   top: 15px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-size: large;
+   width: 529px;
+   height: 200px;
+}
+.my_сontact {
+   position: absolute;
+   left: 235px;
+   top: 570;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 18px;
+   color: #000000;
+}
+.phone_number {
+   position: absolute;
+   left: 0px;
+   top: 630px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 17px;
+   color: #000000;
+}
+.telegram {
+   position: absolute;
+   left: 220px;
+   top: 630px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 17px;
+   color: #000000;
+}
+.github {
+   position: absolute;
+   padding-left: 35px;
+   left: 440px;
+   top: 630px;
+   font-family: 'Inter';
+   font-style: normal;
+   font-weight: 500;
+   font-size: 14px;
+   line-height: 17px;
+   color: #000000;
+}
